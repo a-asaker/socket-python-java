@@ -4,10 +4,12 @@ Commnuicate Between Java And Python Using Sockets. One Way Communication, The Cl
 
 You Can Use : 
 
-              `Python Server` + `Java Client`
-              
-              `Python Server` + `Python Client`
-              `Java Server` + `Java Client`
-              `Java Server` + `Python Client`
+   `Python Server` + `Java Client`
+             
+   `Python Server` + `Python Client`
+            
+   `Java Server` + `Java Client`
+            
+   `Java Server` + `Python Client`
 
 Coded By : a-asaker.
